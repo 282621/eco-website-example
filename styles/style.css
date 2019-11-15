@@ -11,11 +11,17 @@ body {
   font-family: "Reem Kufi", sans-serif;
 }
 
+ul, ol, li {
+  margin-left: 2vw;
+  display: inline;
+  list-style: none;
+}
+
 p {
   display: inline;
 }
 
-a:active {
+a:active, a:visited, a:link {
   text-decoration: none;
 }
 
@@ -127,5 +133,10 @@ a:active {
   right: 0px;
   bottom: 0px;
   background: #FFFF;
+}
+
+.box .right-side .navbar {
+  position: absolute;
+  margin: 4vh 0 0 0;
 }
 /*# sourceMappingURL=style.css.map */
