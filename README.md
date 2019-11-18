@@ -17,7 +17,7 @@ This site was created to present skills related to UI/UX, graphic desing and CSS
 -pratice a little bit of web desing
 
 ## Build status
-Still in progress.
+Still in progress. No mobile/tablet version of it.
 
 ## Code style
 I didn't make code review for this one, so there is possibility for a little chaos in my code. //for now
